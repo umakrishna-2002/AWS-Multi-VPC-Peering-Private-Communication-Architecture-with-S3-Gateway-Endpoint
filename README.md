@@ -65,6 +65,9 @@ For Network settings
 S3 Gateway is created and assocaited with Private instance.
 ![image](https://github.com/user-attachments/assets/1752a579-b2f5-487e-b401-d46beb2af70a)
 
+We can see that the created S3 Gateway is attached to the Data Private RT.
+![image](https://github.com/user-attachments/assets/e09f2fcf-7ffe-4aeb-988d-2bf1e53359e7)
+
 Now access the S3 through the Data Private instance.
 ![image](https://github.com/user-attachments/assets/01984304-3a6a-44d6-8354-ddbba2830556)
 
