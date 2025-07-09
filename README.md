@@ -4,6 +4,7 @@ Workflow goes as follows:
 1. Creating twi VPC's in us-west-1 (Oregon) region.
 2. Connecting through VPC Peering.
 3. Accessing the S3 through one of the private instance using S3 Gateway wothout using the internet.
+![image](https://github.com/user-attachments/assets/5f0dd5f8-d3db-490e-a7ad-545d75b760ef)
 
 Create two VPC's in Oregon region
 VPC should consists of:
